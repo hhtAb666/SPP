@@ -7,7 +7,7 @@
 
 ## 项目简介
 
-本项目是一套基于前后端分离架构的校园体育场馆预约与健康管理平台。旨在解决校园体育场馆资源分配不均、预约流程繁琐等问题。通过数字化管��[...]
+本项目是一套基于前后端分离架构的校园体育场馆预约与健康管理平台。旨在解决校园体育场馆资源分配不均、预约流程繁琐等问题。
 
 - **GitHub 仓库地址**: [https://github.com/hhtAb666/SPP.git](https://github.com/hhtAb666/SPP.git)
 - **Gitee 仓库地址**: [https://gitee.com/giteehrj789/school-ph-platform.git](https://gitee.com/giteehrj789/school-ph-platform.git)

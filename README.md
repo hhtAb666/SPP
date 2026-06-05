@@ -1,12 +1,13 @@
 # 校园运动场馆预约管理系统
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0.5-green.svg)](https://spring.io/projects/spring-boot)
+[![Java 17](https://img.shields.io/badge/Java-17-blue.svg)](https://www.oracle.com/java/technologies/javase/jdk17-archive/)
 [![Vue 3](https://img.shields.io/badge/Vue.js-3.4.0-4FC08D.svg)](https://vuejs.org/)
 [![MyBatis Plus](https://img.shields.io/badge/MyBatis%20Plus-3.5.3-blue.svg)](https://baomidou.com/)
 
 ## 项目简介
 
-本项目是一套基于前后端分离架构的校园体育场馆预约与健康管理平台。旨在解决校园体育场馆资源分配不均、预约流程繁琐等问题。通过数字化管理手段，实现场馆资源的在线浏览、实时预约、智能排班，同时集成个人健康数据管理功能，以支持校园体育信息化建设。
+本项目是一套基于前后端分离架构的校园体育场馆预约与健康管理平台。旨在解决校园体育场馆资源分配不均、预约流程繁琐等问题。通过数字化管��[...]
 
 - **GitHub 仓库地址**: [https://github.com/hhtAb666/SPP.git](https://github.com/hhtAb666/SPP.git)
 - **Gitee 仓库地址**: [https://gitee.com/giteehrj789/school-ph-platform.git](https://gitee.com/giteehrj789/school-ph-platform.git)
